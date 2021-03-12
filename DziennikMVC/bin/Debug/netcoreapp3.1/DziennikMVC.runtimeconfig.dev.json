@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Voltinus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Voltinus\\.nuget\\packages"
+    ]
+  }
+}
