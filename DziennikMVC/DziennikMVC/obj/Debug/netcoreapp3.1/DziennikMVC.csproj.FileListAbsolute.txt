@@ -1,0 +1,8 @@
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.AssemblyInfoInputs.cache
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.AssemblyInfo.cs
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.RazorAssemblyInfo.cache
+C:\Users\Michał\Documents\GitHub\dziennik-mvc\DziennikMVC\DziennikMVC\obj\Debug\netcoreapp3.1\DziennikMVC.RazorAssemblyInfo.cs
