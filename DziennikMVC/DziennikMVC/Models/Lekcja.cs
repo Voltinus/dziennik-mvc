@@ -7,5 +7,12 @@ namespace DziennikMVC.Models
 {
     public class Lekcja
     {
+        public int LekcjaId { get; set; }
+        public DateTimeOffset date { get; set; }
+        public int KlasaId { get; set; }
+        public int NauczanieId { get; set; }
+        public virtual ICollection<Obecnosc> Obecnosci { get; set; }
+        //public virtual Nauczanie Nauczanie { get; set; }
+        //public virtual Klasa Klasa { get; set; }
     }
 }

@@ -7,11 +7,11 @@ namespace DziennikMVC.Models
 {
     public class Uczen
     {
-        public int Id_ucznia { get; set; }
-        public int Id_klasy { get; set; }
-        public int Id_konta { get; set; }
-        public virtual Klasa Klasa { get; set; }
-        public virtual Konto Konto { get; set; }
+        public int UczenId { get; set; }
+        public int KlasaId { get; set; }
+        public int KontoId { get; set; }
+        //public virtual Klasa Klasa { get; set; }
+        //public virtual Konto Konto { get; set; }
         public virtual ICollection<Ocena> Oceny {get;set;}
         public virtual ICollection<Obecnosc> Obecnosci { get; set; }
     }
